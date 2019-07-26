@@ -1,7 +1,7 @@
 Chainer-CutMix
 ===
 
-CutMixをChainerで実装してCifer-10で実験してみました。  
+CutMixをChainerで実装してCifar-10で実験してみました。  
 割と無理やりなコードなのでそのうちちゃんと書き直したいと思います...  
 
 CutMixについて
