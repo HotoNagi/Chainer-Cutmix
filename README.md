@@ -8,7 +8,7 @@ CutMixについて
 ---
 論文：https://arxiv.org/abs/1905.04899
 
-他の画像を切り取って重ねる新しめData Augmentation。（ラベル処理は多分Mixupと一緒）
+他の画像を切り取って重ねる新しめData Augmentation（ラベル処理は多分Mixupと一緒）。  
 CutoutとMixup組み合わせたような手法。
 
 x_A（学習画像）とx_B（貼り付ける画像）を用意して貼り付ける（以下の式）。
