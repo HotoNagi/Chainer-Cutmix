@@ -16,7 +16,7 @@ $x_A$（学習画像）と$x_B$（貼り付ける画像）を用意して$\tilde
 ![](https://i.imgur.com/64oUaBb.png)
 
 また貼り付ける画像の大きさは以下の式で決まる。  
-![](https://i.imgur.com/hNVx6Zj.png) 
+![](https://i.imgur.com/hNVx6Zj.png)   
 $λ∈[0,1]$は、ベータ分布$Beta(α,α)$からのサンプリングにより取得する。  
 $α$はハイパーパラメータなので自由に設定できる。
 以下はベータ分布図。  
