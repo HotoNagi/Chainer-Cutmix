@@ -45,7 +45,7 @@ validation accuracy : 0.78291
 validation accuracy : 0.814062
 
 - [ ] ResNet50(CutMix)
-![](https://i.imgur.com/cZBWsHc.png)
+![](https://i.imgur.com/g7aWzvW.png)
 validation accuracy : **0.833285**
 
 実行方法
